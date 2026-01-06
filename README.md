@@ -1,5 +1,5 @@
 - 👋 Hi, I’m samikshya dhamala
-- 👀 I’m interested in cyber securities
+- 👀 I’m interested in AI/ML.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python project
 - 📫 How to reach me samikshya.dhamala88@gmail.com
